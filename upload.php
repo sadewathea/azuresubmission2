@@ -44,7 +44,7 @@ if ($uploadOk == 0) {
 } else {
     if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
         echo "The file ". basename( $_FILES["fileToUpload"]["name"]). " has been uploaded.";
-		$id = "https://hexasoft-id.000webhostapp.com/uploads/" . basename( $_FILES["fileToUpload"]["name"]);
+		$id = "https://hexawebapp.azurewebsites.net/uploads/" . basename( $_FILES["fileToUpload"]["name"]);
 	    $_SESSION['id'] = $id;
         header('Location: /analisa.php');
     } else {
