@@ -1,0 +1,49 @@
+/* CSS Document */
+
+BODY {
+FONT-SIZE: 11px; FONT-FAMILY: verdana, arial;
+}
+TD {
+FONT-SIZE: 11px; FONT-FAMILY: verdana, arial;
+}
+.table_utama {
+border-color : black;
+border-style : solid;
+border-width : 1px;
+
+}
+.td_head{
+border-color : balck;
+border-style : solid;
+border-width : 0px 0px 1px 0px;
+background-color : #A1BBE4;
+height : 85 px;
+}
+.td_menu{
+
+border-color : balck;
+border-style : solid;
+border-width : 1px 1px 0px 0px;
+background-color : #BFD0EA;
+width : 140px;
+}
+.td_headmenu{
+border-color : balck;
+border-style : outset;
+border-width : 0px 0px 1px 0px;
+background-color : #A1BBE4;
+FONT-SIZE: 11px; FONT-FAMILY: verdana, arial;
+height : 20px;
+}
+td.utama
+{
+border-color : balck;
+border-style : solid;
+border-width : 1px 0px 0px 0px;
+
+}
+td.isi{
+border-color : balck;
+border-style : solid;
+border-width : 1px 0px 0px 0px;
+}

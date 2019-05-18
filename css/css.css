@@ -1,0 +1,49 @@
+.normal {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-decoration: none;
+	color: #666699;
+
+}
+.linkmenu {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #6666CC;
+	text-decoration: none;
+}
+.headertbl {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.linkprod {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+.katalog {
+
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.header {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: none;
+}
+.headerproduk {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: none;
+}
